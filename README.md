@@ -1,1 +1,1 @@
-# HackerRank
+# HackerRank Solution By Thomas Wangsa
